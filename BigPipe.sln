@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BigPipe", "BigPipe\BigPipe.csproj", "{AF0F72EF-02B7-46BA-9BB3-D32D437CE249}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AF0F72EF-02B7-46BA-9BB3-D32D437CE249}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AF0F72EF-02B7-46BA-9BB3-D32D437CE249}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AF0F72EF-02B7-46BA-9BB3-D32D437CE249}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AF0F72EF-02B7-46BA-9BB3-D32D437CE249}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
