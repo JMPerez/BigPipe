@@ -13,7 +13,7 @@ The implementation of these pagelets is performed in parallel on the server and 
 * If one pagelet takes longer to run, it will not delay the generation of the rest of pagelets.
 * Pagelets are generated in several concurrent asynchronous threads and when a thread finishes its execution, it flushes the content so the browser can start rendering.
 
-More information on this project and a detailed tutorial can be found on [JMPerez Blog](http://blog.josemanuelperez.es/2010/09/tutorial-how-to-implement-bigpipe-using-asp-net-mvc-part-1/)
+More information on this project and a detailed tutorial can be found on [JMPerez Blog](http://jmperezperez.com/tutorial-how-to-implement-bigpipe-using-asp-net-mvc-part-1/).
 
 ## Implementation using ASP.NET MVC
 
